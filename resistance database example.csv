@@ -1,3 +1,0 @@
-Database ID,Mutation Code,Antimicrobial,Locus Tag,Gene Name,WT Amino Acid,WT AA Sequence,Mut Amino Acid,Mutant AA Sequence,Mutation Genomic Coordinates,wt nucleotide,mut nucleotide,gene start,gene end,gene orientation,Number DST Tested,Number Resistant,Number Sensitive,Mutation Detection Method,Sensitivity Testing Method,Sensitivity Testing Concentration,Pubmed ID,DOI
-1,embB_M306V,Ethambutol,Rv3795,embB,Met,ATG,Val,GTG,4247429,A,G,4246514,4249810,positive,13,5,7,Sanger,Bactec MGIT 960 ,5 ug/ ml,27130997,10.3855/jidc.7215
-,,,,,,,,,,,,,,,,,,,,,,,
