@@ -17,8 +17,8 @@ https://github.com/ngs-fzb/MTBseq_source
 https://github.com/ngs-fzb/MTBseq_source/blob/master/var/res/MTB_Resistance_Mediating.txt
 https://github.com/ngs-fzb/MTBseq_source/blob/master/var/res/MTB_Extended_Resistance_Mediating.txt
 
-**MycoResistance**
+**MycoResistance**  
 http://www.hmulinglab.org/MycoResistance/index.jsp
 
-**ReSeqTB**
+**ReSeqTB**  
 https://platform.reseqtb.org/
